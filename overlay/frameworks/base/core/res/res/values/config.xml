@@ -363,4 +363,7 @@
     <string name="config_SmartChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>
     <string name="config_SmartChargingSuspendValue" translatable="false">1</string>
     <string name="config_SmartChargingResumeValue" translatable="false">0</string>
+
+    <!-- Slow brightness animation ramp rate in float. -->
+    <item name="config_brightnessRampRateSlowFloat" format="float" type="dimen">0.098039</item>
 </resources>
